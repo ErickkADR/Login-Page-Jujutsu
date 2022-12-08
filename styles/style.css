@@ -44,7 +44,7 @@ section#login {
 }
 section#login > div#imagem { 
     display: block;
-    background: #031f27 url(../images/1133949.jpg) no-repeat;
+    background: #031f27 url(../images/satoru.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
     height: 270px;
@@ -53,8 +53,9 @@ section#login > div#form {
     padding: 10px;
     display: block;
 }
-div#form > h1 {
-    text-align: center;
+img.logoimg {
+    width: 80%;
+    margin-left: 20px;
     margin-bottom: 10px;
 }
 div#form > p {
@@ -62,14 +63,44 @@ div#form > p {
     margin-top: 10px;
     margin-bottom: 10px;
 }
+form > div.campo{
+    border: 1px rgb(31, 29, 29) solid;
+    border-radius: 5px;
+    margin: 10px 0px;
+}
+div.campo > label {
+    color: #53B8ED;
+    font-size: 2em;
+    width: 40px;
+    padding: 7px 0px 5px 10px;
+}
+div.campo > input {
+    background-color: white;
+    border: none;
+    font-size: 1em;
+    transform: translateY(-10px);
+    width: calc(100% - 69px);
+    height: 100%;
+    padding: 4px;
+}
+div.esqueci {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin-top: 20px;
+}
 a.botao {
     text-decoration: none;
     color: #53B8ED;
     font-weight: bolder;
+    padding-left: 15px;
+}
+div.esqueci > span {
+    color: #53B8ED;
 }
 a.botao:hover {
     text-decoration: underline;
-    transform: translateY(5px);
 }
 .button-29 {
     width: 100%;
@@ -102,7 +133,7 @@ a.botao:hover {
     white-space: nowrap;
     will-change: box-shadow,transform;
     font-size: 18px;
-    margin-top: 60px;
+    margin-top: 20px;
     margin-bottom: 20px;
   }
   

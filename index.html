@@ -15,8 +15,7 @@
             <div id="imagem">
             </div>
             <div id="form">
-                <h1>Login</h1>
-                <p>Seja bem-vindo(a) novamente. Faça login para acessar a sua conta e poder fazer as configurações no seu ambiente</p>
+            <img class="logoimg" src="images/logo.png" alt="logo">
                 <form action="login.php" method="post" autocomplete="on">
                     <div class="campo">
                         <label for="ilogin" class="material-symbols-outlined">account_circle</label>
@@ -28,9 +27,10 @@
                         <input type="password" name="senha" id="isenha" placeholder="sua senha" autocomplete="current-password" required minlength="8" maxlength="20">
                     </div>
                     
-                    <a href="esqueci.html" class="botao">
-                        Esqueci a Senha <span class="material-symbols-outlined">info</span>
-                    </a>
+                    <div class="esqueci">
+                        <a href="esqueci.html" class="botao" target="_blank">Esqueci a Senha</a>
+                         <span class="material-symbols-outlined">info</span>
+                    </div>
                     <button class="button-29" role="button">Entrar</button>
                     
                 </form>

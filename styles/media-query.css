@@ -12,9 +12,10 @@
     section#login > div#form {
         float: right;
         width: 60%;
-    }
-    div#form > p {
-        font-size: 1em;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
     }
 }
 @media screen and (min-width: 992px) {
@@ -30,8 +31,9 @@
     section#login > div#form {
         float: right;
         width: 50%;
-    }
-    div#form > p {
-        font-size: 1.2em;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
     }
 }
