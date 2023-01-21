@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Pokedex" title="Pokedex" src="https://user-images.githubusercontent.com/99443921/213824077-d4f9d3cb-d5a0-47eb-92cb-bde452e3ad78.png" width="500px" height="120px" />
+    <img alt="Logo" title="Logo" src="https://user-images.githubusercontent.com/99443921/213824077-d4f9d3cb-d5a0-47eb-92cb-bde452e3ad78.png" width="500px" height="120px" />
 </h1>
 
 <p align="center">
@@ -30,14 +30,13 @@
 ## 💻Project
 
 <br />
-Olá rede, mais um projeto finalizado e dessa vez fiz a minha primeira tela de login responsiva utilizando apenas HTML e CSS!!!
-Esse é mais um dos projetos do "Curso em Vídeo" que consegui realizar com o auxílio do professor Gustavo Guanabara.
-Nessa tela de login, aprendi a criar esse efeito de responsividade, busquei utilizar uma paleta de cores composta por cores frias e utilizei um tema de um personagem do anime Jujutsu Kaisen.
-
-link do site: https://erickkadr.github.io/ProjetoLogin/
-
+Hello network, another project finished and this time I made my first responsive login screen using only HTML and CSS!!!
+This is another one of the "Curso em Vídeo" projects that I was able to carry out with the help of Professor Gustavo Guanabara.
+On this login screen, I learned how to create this responsiveness effect, I tried to use a color palette composed of cold colors and I used a theme from a character from the anime Jujutsu Kaisen.
 <br />
 <br />
+
+### website link: https://erickkadr.github.io/ProjetoLogin/
 
 ### Made with ♥ by Erickk |  [Contact](https://www.linkedin.com/in/erickkadr//)
 
