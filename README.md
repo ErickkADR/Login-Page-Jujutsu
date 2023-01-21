@@ -10,7 +10,7 @@
 <br />
 
 <div align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/99443921/213823802-db383457-c2ff-4b8a-b722-2574775af371.gif"/>
+  <img width="100%" src="https://user-images.githubusercontent.com/99443921/213840224-04f9dc8b-063e-4ddd-9450-82d224b443c9.gif"/>
 </div>
 
 
@@ -19,9 +19,9 @@
 ## 💻 &nbsp; Project
 
 <br />
-Olá rede, mais um projeto finalizado e dessa vez fiz a minha primeira tela de login responsiva utilizando apenas HTML e CSS!!!
-Esse é mais um dos projetos do Curso em Vídeo que consegui realizar com o auxílio do professor Gustavo Guanabara.
-Nessa tela de login,aprendi a criar esse efeito de responsividade, busquei utilizar uma paleta de cores composta por cores frias e utilizei um tema de um personagem do anime Jujutsu Kaisen.
+Hoje venho aqui compartilhar um projeto que desenvolvi utilizando apenas HTML e CSS, um iframe para inclusão das minhas redes sociais dentro do mockup de iphone !!!!
+Foi um projeto super desafiador, pois consegui utilizar algumas técnicas de design e coloquei em prática todos os conhecimentos que venho aprendendo. Gostei muito do resultado final pois consegui obter o objetivo que queria.
+
 
 <br />
 
