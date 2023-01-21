@@ -36,7 +36,7 @@ On this login screen, I learned how to create this responsiveness effect, I trie
 <br />
 <br />
 
-### website link: https://erickkadr.github.io/LoginPageJujutsu/
+### website link: https://erickkadr.github.io/Login-Page-Jujutsu/
 
 ### Made with ♥ by Erickk |  [Contact](https://www.linkedin.com/in/erickkadr//)
 
