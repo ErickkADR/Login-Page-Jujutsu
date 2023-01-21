@@ -34,6 +34,8 @@ Olá rede, mais um projeto finalizado e dessa vez fiz a minha primeira tela de l
 Esse é mais um dos projetos do "Curso em Vídeo" que consegui realizar com o auxílio do professor Gustavo Guanabara.
 Nessa tela de login, aprendi a criar esse efeito de responsividade, busquei utilizar uma paleta de cores composta por cores frias e utilizei um tema de um personagem do anime Jujutsu Kaisen.
 
+link do site: https://erickkadr.github.io/ProjetoLogin/
+
 <br />
 <br />
 
